@@ -1,0 +1,12 @@
+Github tutorials from https://github.com/KennethanCeyer/tutorial-git
+
+{} insert informations corresponding to user 
+# comments 
+
+git config --global user.name "{neme}"
+git config --global user.email "{email}"
+
+git init 	# don't need this if git is cloned from github
+
+git remote add origin https://github.com/
+

@@ -1,0 +1,28 @@
+Vim tutorials
+
+reference: vim.rtorr.com
+
+Tip! 'vimtutor' in shell for tutorial document
+
+
+
+vim commands
+
+[GLOBAL]
+':h {keyword}'		open help for {keyword}
+':sav {filename}' 	save file as {filename}
+':clo' 			close current pane
+':ter'			open a terminal window
+
+[CURSER MOVEMENT]
+'h, j, k, l'		move curser left, down, up, right
+'3h'			move curser left 3 spaces
+'H, M, L' 		move to top, middle, bottom of screen
+'w, e
+
+
+'i'		insert mode
+'ESC'		
+':w'		saves data
+':q'		exits (when saved)
+':q!'		exits without saving
