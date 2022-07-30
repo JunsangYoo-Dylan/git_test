@@ -8,5 +8,10 @@ git config --global user.email "{email}"
 
 git init 	# don't need this if git is cloned from github
 
-git remote add origin https://github.com/
+git remote add origin https://github.com/{github username}/{git repository name}
+
+git add		# upload source
+git add . -f 	# to upload ignored file, removed history also, use -f option
+
+
 
